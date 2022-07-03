@@ -1,18 +1,18 @@
-header{
+#header{
     height: 60px;
     background: teal;
 }
-header ul{
+#header ul{
     display: inline-block;
 }
-header ul li{
+#header ul li{
     display: inline-block;
       font-size: 24px;
       color: white;
       margin-right: 10px;
       text-align: left;
 }
-header a{
+#header a{
     display: inline-block;
     background: purple;
     color: white;
