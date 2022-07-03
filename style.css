@@ -1,0 +1,12 @@
+.banner{
+    background: green;
+    height: 600px;
+    
+}
+
+.banner h1{
+    font-size: 100px;
+    color: tomato;
+    font-weight: 700;
+    
+}
