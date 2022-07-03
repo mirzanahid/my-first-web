@@ -1,3 +1,27 @@
+header{
+    height: 60px;
+    background: teal;
+}
+header ul{
+    display: inline-block;
+}
+header ul li{
+    display: inline-block;
+      font-size: 24px;
+      color: white;
+      margin-right: 10px;
+      text-align: left;
+}
+header a{
+    display: inline-block;
+    background: purple;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
 .banner{
     background: green;
     height: 600px;
@@ -8,5 +32,5 @@
     font-size: 100px;
     color: tomato;
     font-weight: 700;
-    
+
 }
